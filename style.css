@@ -1,0 +1,155 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-image: url(phantom-of-the-night.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.phantom-of-the-night-1-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1920px;
+  	height: 1080px;
+  	object-fit: cover;
+}
+.slide-169-1-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(2, 1, 1, 0.2);
+  	width: 1920px;
+  	height: 129px;
+}
+.about {
+  	position: absolute;
+  	top: 49px;
+  	left: 852px;
+  	letter-spacing: 3px;
+  	line-height: 30px;
+  	text-transform: uppercase;
+  	cursor: pointer;
+}
+.phantom {
+  	position: absolute;
+  	top: 365px;
+  	left: 125px;
+  	font-size: 150px;
+  	letter-spacing: 3px;
+  	line-height: 30px;
+  	text-transform: capitalize;
+  	display: inline-block;
+  	width: 767px;
+  	height: 40px;
+  	text-shadow: 2px 0 0 #605e5e, 0 2px 0 #605e5e, -2px 0 0 #605e5e, 0 -2px 0 #605e5e;
+}
+.night {
+  	position: absolute;
+  	top: 609px;
+  	left: 397px;
+  	font-size: 150px;
+  	letter-spacing: 3px;
+  	line-height: 30px;
+  	text-transform: capitalize;
+  	color: #ff1818;
+  	display: inline-block;
+  	width: 471px;
+  	height: 107px;
+  	text-shadow: 2px 0 0 #fff, 0 2px 0 #fff, -2px 0 0 #fff, 0 -2px 0 #fff;
+}
+.the {
+  	color: #ff1818;
+}
+.of-the {
+  	position: absolute;
+  	top: 490px;
+  	left: 271px;
+  	font-size: 100px;
+  	letter-spacing: 3px;
+  	line-height: 30px;
+  	text-transform: lowercase;
+  	display: inline-block;
+  	width: 260px;
+  	height: 34px;
+  	text-shadow: 2px 0 0 #fff, 0 2px 0 #fff, -2px 0 0 #fff, 0 -2px 0 #fff;
+}
+.home {
+  	position: absolute;
+  	top: 49px;
+  	left: 616px;
+  	letter-spacing: 3px;
+  	line-height: 30px;
+  	text-transform: uppercase;
+  	cursor: pointer;
+}
+.arlecchino-also-known {
+  	margin: 0;
+}
+.character-in {
+  	color: #fff;
+}
+.genshin-impact {
+  	color: #4181ff;
+}
+.arlecchino-also-known-container {
+  	position: absolute;
+  	top: 897px;
+  	left: 125px;
+  	letter-spacing: 3px;
+  	line-height: 30px;
+}
+.download {
+  	position: absolute;
+  	top: 49px;
+  	left: 1106px;
+  	letter-spacing: 3px;
+  	line-height: 30px;
+  	text-transform: uppercase;
+  	cursor: pointer;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(255, 24, 24, 0.8);
+  	border: 2px solid #fff;
+  	box-sizing: border-box;
+  	width: 292px;
+  	height: 60px;
+}
+.learn-more {
+  	position: absolute;
+  	top: 15px;
+  	left: 10px;
+  	letter-spacing: 3px;
+  	line-height: 30px;
+  	text-transform: capitalize;
+  	display: inline-block;
+  	width: 272px;
+  	height: 29px;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 897px;
+  	left: 1455px;
+  	width: 292px;
+  	height: 60px;
+  	cursor: pointer;
+  	text-align: center;
+  	font-size: 35px;
+}
+.slide-169-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 1080px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 30px;
+  	color: #fff;
+  	font-family: 'Times New Roman';
+}
